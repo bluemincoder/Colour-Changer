@@ -1,7 +1,7 @@
 const buttons = document.querySelectorAll(".button");
 const body = document.querySelector("body");
 
-      // console.log(buttons); 
+      // console.log(buttons); `
 
 //       buttons.forEach((i) => {
 //           body.style.backgroundColor = i.target.id;
